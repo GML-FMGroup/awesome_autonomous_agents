@@ -1,11 +1,11 @@
-# awesome_autonomous_agents
+# Awesome Autonomous Agents
 
 
 ## Repo
 1. https://github.com/camel-ai/owl
-2. https://github.com/mannaandpoem/OpenManus
-3. https://github.com/HKUDS/AutoAgent
-4. https://github.com/Darwin-lfl/langmanus
+1. https://github.com/mannaandpoem/OpenManus
+1. https://github.com/HKUDS/AutoAgent
+1. https://github.com/Darwin-lfl/langmanus
 
 ## Paper
 
