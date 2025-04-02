@@ -6,6 +6,7 @@
 1. https://github.com/mannaandpoem/OpenManus
 1. https://github.com/HKUDS/AutoAgent
 1. https://github.com/Darwin-lfl/langmanus
+1. https://github.com/browser-use
 
 ## Paper
 
