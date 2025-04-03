@@ -1,14 +1,8 @@
 # Awesome Autonomous Agents
 
 
-## Repo
-1. https://github.com/camel-ai/owl
-1. https://github.com/mannaandpoem/OpenManus
-1. https://github.com/HKUDS/AutoAgent
-1. https://github.com/Darwin-lfl/langmanus
-1. [https://github.com/browser-use](https://github.com/browser-use/browser-use)
-1. [OS-Atlas Homepage](https://osatlas.github.io/)
-1. 
+
+
 
 ## Paper
 
@@ -41,7 +35,14 @@
 1. [WebArena: A Realistic Web Environment for Building Autonomous Agents](https://webarena.dev/)
 1. [VisualWebBench: How Far Have Multimodal LLMs Evolved in Web Page Understanding and Grounding?](https://visualwebbench.github.io/)
 1. [Mind2Web: Towards a Generalist Agent for the Web | OpenReview](https://openreview.net/forum?id=kiYqbO3wqw)，[Mind2Web](https://osu-nlp-group.github.io/Mind2Web/)
-1. 
+
+## Repo
+1. https://github.com/camel-ai/owl
+1. https://github.com/mannaandpoem/OpenManus
+1. https://github.com/HKUDS/AutoAgent
+1. https://github.com/Darwin-lfl/langmanus
+1. [https://github.com/browser-use](https://github.com/browser-use/browser-use)
+1. [OS-Atlas Homepage](https://osatlas.github.io/)
 
 
 
