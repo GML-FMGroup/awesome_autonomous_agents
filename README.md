@@ -1,12 +1,7 @@
 # Awesome Autonomous Agents
 
-
-
-test
-
 ## Paper
 
-<<<<<<< HEAD
 1. [**Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks**](https://arxiv.org/abs/2501.11733)，[[project](https://x-plug.github.io/MobileAgent/)] [[code](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-E)] *Zhenhailong Wang, Haiyang Xu, Junyang Wang, Xi Zhang, Ming Yan, Ji Zhang, Fei Huang, Heng Ji.* Preprint'25
 2. [**OS-ATLAS: Foundation Action Model for Generalist GUI Agents.**](https://openreview.net/forum?id=n9PDaFNi8t) [[project](https://osatlas.github.io/)] [[code](https://github.com/OS-Copilot/OS-Atlas)] [[model](https://huggingface.co/collections/OS-Copilot/os-atlas-67246e44003a1dfcc5d0d045)] *Zhiyong Wu, Zhenyu Wu, Fangzhi Xu, Yian Wang, Qiushi Sun, Chengyou Jia, Kanzhi Cheng, Zichen Ding, Liheng Chen, Paul Pu Liang, Yu Qiao.* ICLR 2025 Spotlight
 3. [**InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection.**](https://arxiv.org/abs/2501.04575) [[project](https://b7277.github.io/InfiGUIAgent.github.io/)] [[code](https://github.com/reallm-labs/infiguiagent)] *Yuhang Liu, Pengxiang Li, Zishu Wei, Congkai Xie, Xueyu Hu, Xinchen Xu, Shengyu Zhang, Xiaotian Han, Hongxia Yang, Fei Wu.* Preprint'25
@@ -30,8 +25,6 @@ test
 21. [**Dual-View Visual Contextualization for Web Navigation.**](https://arxiv.org/abs/2402.04476) *Jihyung Kil, Chan Hee Song, Boyuan Zheng, Xiang Deng, Yu Su, Wei-Lun Chao.* Preprint'24
 22. [[**OS-Copilot: Towards Generalist Computer Agents with Self-Improvement.**](https://arxiv.org/abs/2402.07456) [[code](https://github.com/OS-Copilot/OS-Copilot)] *Zhiyong Wu, Chengcheng Han, Zichen Ding, Zhenmin Weng, Zhoumianze Liu, Shunyu Yao, Tao Yu, Lingpeng Kong.* Preprint'24
 23. [**UFO: A UI-Focused Agent for Windows OS Interaction.**](https://arxiv.org/abs/2402.07939) [[code](https://github.com/microsoft/UFO)] *Chaoyun Zhang, Liqun Li, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma, Yu Kang, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang.* Preprint'24
-24. 
-=======
 1. [**CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society.**](https://arxiv.org/abs/2303.17760) [[project](https://www.camel-ai.org/)] [[code](https://github.com/camel-ai/owl)] *Guohao Li, Hasan Abed Al Kader Hammoud, Hani Itani, Dmitrii Khizbullin, Bernard Ghanem.* Preprint'23
 1. [**AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents.**](https://arxiv.org/abs/2502.05957) [[project](https://autoagent-ai.github.io/)] [[code](https://github.com/HKUDS/AutoAgent)] *Jiabin Tang, Tianyu Fan, Chao Huang.* Preprint'25  
 1. [**Training Software Engineering Agents and Verifiers with SWE-Gym.**](https://arxiv.org/abs/2412.21139) [[code](https://github.com/SWE-Gym/SWE-Gym)] [[model](https://huggingface.co/SWE-Gym)] *Jiayi Pan, Xingyao Wang, Graham Neubig, Navdeep Jaitly, Heng Ji, Alane Suhr, Yizhe Zhang.* Preprint'24  
@@ -44,7 +37,6 @@ test
 1. [**AppAgentX: Evolving GUI Agents as Proficient Smartphone Users.**](https://arxiv.org/abs/2503.02268) [[project](https://appagentx.github.io/)] [[code](https://github.com/Westlake-AGI-Lab/AppAgentX)] *Wenjia Jiang, Yangyang Zhuang, Chenxi Song, Xu Yang, Chi Zhang.* Preprint'25
 1. [**OctoTools: An Agentic Framework with Extensible Tools for Complex Reasoning.**](https://arxiv.org/abs/2502.11271) [[project](https://octotools.github.io/)] [[code](https://github.com/octotools/octotools)] *Pan Lu, Bowen Chen, Sheng Liu, Rahul Thapa, Joseph Boen, James Zou.* Preprint'25
 1. [**Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks**](https://arxiv.org/abs/2501.11733)，[[project](https://x-plug.github.io/MobileAgent/)] [[code](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-E)] *Zhenhailong Wang, Haiyang Xu, Junyang Wang, Xi Zhang, Ming Yan, Ji Zhang, Fei Huang, Heng Ji.* Preprint'25
->>>>>>> 922cdb572cfac8197bc6298d9e8e853d414078d7
 
 
 
@@ -62,7 +54,7 @@ test
 1. [**Android in the Wild: A Large-Scale Dataset for Android Device Control.**](https://arxiv.org/abs/2307.10088) *Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap.* Preprint'23
 1. [**Exposing Limitations of Language Model Agents in Sequential-Task Compositions on the Web.**](https://arxiv.org/abs/2311.18751) [[code](https://github.com/google-research/google-research/tree/master/compositional_rl/compwob)] *Hiroki Furuta, Yutaka Matsuo, Aleksandra Faust, Izzeddin Gur.* Preprint'23
 1. [**Mind2Web: Towards a Generalist Agent for the Web.**](https://arxiv.org/abs/2306.06070) [[project](https://osu-nlp-group.github.io/Mind2Web/)] [[code](https://github.com/OSU-NLP-Group/Mind2Web)] *Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su.* Preprint'23
-1. [**SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents - ACL Anthology.**](https://aclanthology.org/2024.acl-long.505/) [[code](https://github.com/njucckevin/SeeClick)] *Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Li YanTao, Jianbing Zhang, Zhiyong Wu.* Preprint'24
+1. [**SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents.**](https://aclanthology.org/2024.acl-long.505/) [[code](https://github.com/njucckevin/SeeClick)] *Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Li YanTao, Jianbing Zhang, Zhiyong Wu.* Preprint'24
 1. [**VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks.**](https://arxiv.org/abs/2401.13649) [[project](https://jykoh.com/vwa)] [[code](https://github.com/web-arena-x/visualwebarena)] *Jing Yu Koh, Robert Lo, Lawrence Jang, Vikram Duvvur, Ming Chong Lim, Po-Yu Huang, Graham Neubig, Shuyan Zhou, Ruslan Salakhutdinov, Daniel Fried.* Preprint'24
 1. [**OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web.**](https://arxiv.org/abs/2402.17553) *Raghav Kapoor, Yash Parag Butala, Melisa Russak, Jing Yu Koh, Kiran Kamble, Waseem Alshikh, Ruslan Salakhutdinov.* Preprint'24
 1. [**On the Multi-turn Instruction Following for Conversational Web Agents.**](https://arxiv.org/abs/2402.15057) [[code](https://github.com/magicgh/self-map)] *Yang Deng, Xuan Zhang, Wenxuan Zhang, Yifei Yuan, See-Kiong Ng, Tat-Seng Chua.* Preprint'24
