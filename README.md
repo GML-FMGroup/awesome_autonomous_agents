@@ -50,6 +50,17 @@
 46. [**Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems.**](https://arxiv.org/abs/2407.13032) [[code](https://github.com/EmergenceAI/Agent-E)] *Tamer Abuelsaad, Deepak Akkil, Prasenjit Dey, Ashish Jagmohan, Aditya Vempaty, Ravi Kokku.* Preprint'24
 47. [**Tree Search for Language Model Agents.**](https://arxiv.org/abs/2407.01476) [[code](https://github.com/kohjingyu/search-agents)] *Jing Yu Koh, Stephen McAleer, Daniel Fried, Ruslan Salakhutdinov.* Preprint'24
 48. [**Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents.**](https://arxiv.org/abs/2408.07199) [[code](https://github.com/sentient-engineering/agent-q/tree/main)] *Pranav Putta, Edmund Mills, Naman Garg, Sumeet Motwani, Chelsea Finn, Divyansh Garg, Rafael Rafailov.* Preprint'24
+49. [**Caution for the Environment: Multimodal Agents are Susceptible to Environmental Distractions.**](https://arxiv.org/abs/2408.02544) [[code](https://github.com/xbmxb/EnvDistraction)] *Xinbei Ma, Yiting Wang, Yao Yao, Tongxin Yuan, Aston Zhang, Zhuosheng Zhang, Hai Zhao.* Preprint'24
+50. [**OpenWebAgent: An Open Toolkit to Enable Web Agents on Large Language Models.**](https://aclanthology.org/2024.acl-demos.8/) [[code](https://github.com/boxworld18/OpenWebAgent)] *Iat Long Iong, Xiao Liu, Yuxuan Chen, Hanyu Lai, Shuntian Yao, Pengbo Shen, Hao Yu, Yuxiao Dong, Jie Tang.* ACL'24
+51. [**WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration.**](https://arxiv.org/abs/2408.15978) [[project](https://yaoz720.github.io/WebPilot/)] [[code](https://github.com/WebPilotProject/WebPilotCode)] *Yao Zhang, Zijian Ma, Yunpu Ma, Zhen Han, Yu Wu, Volker Tresp.* Preprint'24
+52. [**MobileViews: A Large-Scale Mobile GUI Dataset.**](https://arxiv.org/abs/2409.14337) [[project](https://huggingface.co/datasets/mllmTeam/MobileViews)] *Longxi Gao, Li Zhang, Shihe Wang, Shangguang Wang, Yuanchun Li, Mengwei Xu.* Preprint'24
+53. [**MobileVLM: A Vision-Language Model for Better Intra- and Inter-UI Understanding.**](https://arxiv.org/abs/2409.14818) [[code](https://github.com/xiaomi/mobilevlm)] *Qinzhuo Wu, Weikai Xu, Wei Liu, Tao Tan, Jianfeng Liu, Ang Li, Jian Luan, Bin Wang, Shuo Shang.* Preprint'24
+54. [**Steward: Natural Language Web Automation.**](https://arxiv.org/abs/2409.15441) [[code](https://github.com/byron123t/steward)] *Brian Tang, Kang G. Shin.* Preprint'24
+55. [**xLAM: A Family of Large Action Models to Empower AI Agent Systems.**](https://arxiv.org/abs/2409.03215) [[code](https://github.com/SalesforceAIResearch/xLAM)] *Jianguo Zhang, Tian Lan, Ming Zhu, Zuxin Liu, Thai Hoang, Shirley Kokane, Weiran Yao, Juntao Tan, Akshara Prabhakar, Haolin Chen, Zhiwei Liu, Yihao Feng, Tulika Awalgaonkar, Rithesh Murthy, Eric Hu, Zeyuan Chen, Ran Xu, Juan Carlos Niebles, Shelby Heinecke, Huan Wang, Silvio Savarese, Caiming Xiong.* Preprint'24
+56. [**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents.**](https://arxiv.org/abs/2410.13825) [[code](https://github.com/amazon-science/AgentOccam)] *Ke Yang, Yao Liu, Sapana Chaudhary, Rasool Fakoor, Pratik Chaudhari, George Karypis, Huzefa Rangwala.* Preprint'24
+57. [**Beyond Browsing: API-Based Web Agents.**](https://arxiv.org/abs/2410.16464) [[code](https://github.com/yueqis/api-based-agent)] *Yueqi Song, Frank Xu, Shuyan Zhou, Graham Neubig.* Preprint'24
+58. [**NNetscape navigator: complex demonstrations for web agents without a demonstrator.**](https://arxiv.org/html/2410.02907v1) [[code](https://github.com/MurtyShikhar/NNetnav)] *Shikhar Murty, Dzmitry Bahdanau, Christopher D. Manning.* Preprint'24
+59. [**OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization.**](https://arxiv.org/abs/2410.19609) [[code](https://github.com/minorjerry/openwebvoyager)] *Hongliang He, Wenlin Yao, Kaixin Ma, Wenhao Yu, Hongming Zhang, Tianqing Fang, Zhenzhong Lan, Dong Yu.* Preprint'24
 
 
 
@@ -92,6 +103,11 @@
 1. [**CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents.**](https://arxiv.org/abs/2407.01511) [[code](https://github.com/camel-ai/crab)] *Tianqi Xu, Linyao Chen, Dai-Jie Wu, Yanjun Chen, Zecheng Zhang, Xiang Yao, Zhiqiang Xie, Yongchao Chen, Shilong Liu, Bochen Qian, Philip Torr, Bernard Ghanem, Guohao Li.* Preprint'24
 1. [**Mobile-Bench: An Evaluation Benchmark for LLM-based Mobile Agents.**](https://aclanthology.org/2024.acl-long.478/) [[code](https://github.com/XiaoMi/MobileBench)] *Shihan Deng, Weikai Xu, Hongda Sun, Wei Liu, Tao Tan, Jianfeng Liu, Ang Li, Jian Luan, Bin Wang, Rui Yan, Shuo Shang.* ACL'24
 1. [**Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?**](https://arxiv.org/abs/2407.10956) [[code]](https://github.com/xlang-ai/spider2-v) *Ruisheng Cao, Fangyu Lei, Haoyuan Wu, Jixuan Chen, Yeqiao Fu, Hongcheng Gao, Xinzhuang Xiong, Hanchong Zhang, Yuchen Mao, Wenjing Hu, Tianbao Xie, Hongshen Xu, Danyang Zhang, Sida Wang, Ruoxi Sun, Pengcheng Yin, Caiming Xiong, Ansong Ni, Qian Liu, Victor Zhong, Lu Chen, Kai Yu, Tao Yu.* Preprint'24
+1. [**VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents.**](https://arxiv.org/abs/2408.06327) [[code](https://github.com/thudm/visualagentbench)] *Xiao Liu, Tianjie Zhang, Yu Gu, Iat Long Iong, Yifan Xu, Xixuan Song, Shudan Zhang, Hanyu Lai, Xinyi Liu, Hanlin Zhao, Jiadai Sun, Xinyue Yang, Yu Yang, Zehan Qi, Shuntian Yao, Xueqiao Sun, Siyi Cheng, Qinkai Zheng, Hao Yu, Hanchen Zhang, Wenyi Hong, Ming Ding, Lihang Pan, Xiaotao Gu, Aohan Zeng, Zhengxiao Du, Chan Hee Song, Yu Su, Yuxiao Dong, Jie Tang.* Preprint'24
+1. [**WebLINX: Real-World Website Navigation with Multi-Turn Dialogue.**](https://arxiv.org/abs/2402.05930) [[project](https://mcgill-nlp.github.io/weblinx/)] [[code](https://github.com/McGill-NLP/WebLINX)] *Xing Han Lù, Zdeněk Kasner, Siva Reddy.* Preprint'24
+1. [**NaviQAte: Functionality-Guided Web Application Navigation.**](https://arxiv.org/abs/2409.10741) [[code](https://github.com/commoluo/naviqate/tree/main)] *Mobina Shahbandeh, Parsa Alian, Noor Nashid, Ali Mesbah.* Preprint'24
+1. [**Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale.**](https://arxiv.org/abs/2409.08264) [[code](https://github.com/microsoft/windowsagentarena)] *Rogerio Bonatti, Dan Zhao, Francesco Bonacci, Dillon Dupont, Sara Abdali, Yinheng Li, Justin Wagle, Kazuhito Koishida, Arthur Bucker, Lawrence Jang, Zack Hui.* Preprint'24
+1. [**AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents.**](https://arxiv.org/abs/2410.24024) [[code](https://github.com/THUDM/Android-Lab)] *Yifan Xu, Xiao Liu, Xueqiao Sun, Siyi Cheng, Hao Yu, Hanyu Lai, Shudan Zhang, Dan Zhang, Jie Tang, Yuxiao Dong.* Preprint'24
 1. 
 1. https://ai.meta.com/research/publications/gaia-a-benchmark-for-general-ai-assistants/
 1. https://os-world.github.io/
@@ -126,6 +142,9 @@
 15. [**A Survey on the Memory Mechanism of Large Language Model based Agents.**](https://arxiv.org/abs/2404.13501) [[code](https://github.com/nuster1128/llm_agent_memory_survey)] *Zeyu Zhang, Xiaohe Bo, Chen Ma, Rui Li, Xu Chen, Quanyu Dai, Jieming Zhu, Zhenhua Dong, Ji-Rong Wen.* Preprint'24
 16. [**LLM-based Multi-Agent Reinforcement Learning: Current and Future Directions.**](https://arxiv.org/abs/2405.11106) *Chuanneng Sun, Songjun Huang, Dario Pompili.* Preprint'24
 17. [**A Survey on Evaluation of Multimodal Large Language Models.**](https://arxiv.org/abs/2408.15769) *Jiaxing Huang, Jingyi Zhang.* Preprint'24
+18. [**A Survey on Multimodal Benchmarks: In the Era of Large AI Models.**](https://arxiv.org/abs/2409.18142) [[code]](https://github.com/hkust-longgroup/awesome-mllm-benchmarks) *Lin Li, Guikun Chen, Hanrong Shi, Jun Xiao, Long Chen.* Preprint'24
+19. [**LLM With Tools: A Survey.**](https://arxiv.org/abs/2409.18807) *Zhuocheng Shen.* Preprint'24
+20. 
 
 
 ## Contributing
