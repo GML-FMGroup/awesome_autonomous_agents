@@ -108,7 +108,6 @@
 1. [**NaviQAte: Functionality-Guided Web Application Navigation.**](https://arxiv.org/abs/2409.10741) [[code](https://github.com/commoluo/naviqate/tree/main)] *Mobina Shahbandeh, Parsa Alian, Noor Nashid, Ali Mesbah.* Preprint'24
 1. [**Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale.**](https://arxiv.org/abs/2409.08264) [[code](https://github.com/microsoft/windowsagentarena)] *Rogerio Bonatti, Dan Zhao, Francesco Bonacci, Dillon Dupont, Sara Abdali, Yinheng Li, Justin Wagle, Kazuhito Koishida, Arthur Bucker, Lawrence Jang, Zack Hui.* Preprint'24
 1. [**AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents.**](https://arxiv.org/abs/2410.24024) [[code](https://github.com/THUDM/Android-Lab)] *Yifan Xu, Xiao Liu, Xueqiao Sun, Siyi Cheng, Hao Yu, Hanyu Lai, Shudan Zhang, Dan Zhang, Jie Tang, Yuxiao Dong.* Preprint'24
-1. 
 1. https://ai.meta.com/research/publications/gaia-a-benchmark-for-general-ai-assistants/
 1. https://os-world.github.io/
 1. https://microsoft.github.io/WindowsAgentArena/
@@ -144,7 +143,6 @@
 17. [**A Survey on Evaluation of Multimodal Large Language Models.**](https://arxiv.org/abs/2408.15769) *Jiaxing Huang, Jingyi Zhang.* Preprint'24
 18. [**A Survey on Multimodal Benchmarks: In the Era of Large AI Models.**](https://arxiv.org/abs/2409.18142) [[code]](https://github.com/hkust-longgroup/awesome-mllm-benchmarks) *Lin Li, Guikun Chen, Hanrong Shi, Jun Xiao, Long Chen.* Preprint'24
 19. [**LLM With Tools: A Survey.**](https://arxiv.org/abs/2409.18807) *Zhuocheng Shen.* Preprint'24
-20. 
 
 
 ## Contributing
