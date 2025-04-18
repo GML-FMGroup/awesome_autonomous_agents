@@ -115,12 +115,6 @@
 1. [ScreenSpot-Pro](https://gui-agent.github.io/grounding-leaderboard/)
 1. [VisualWebBench](https://visualwebbench.github.io/)
 
-## Repo
-1. https://github.com/camel-ai/owl
-1. https://github.com/mannaandpoem/OpenManus
-1. https://github.com/HKUDS/AutoAgent
-1. https://github.com/Darwin-lfl/langmanus
-1. [https://github.com/browser-use](https://github.com/browser-use/browser-use)
 
 ## Survey
 
@@ -144,6 +138,12 @@
 18. [**A Survey on Multimodal Benchmarks: In the Era of Large AI Models.**](https://arxiv.org/abs/2409.18142) [[code]](https://github.com/hkust-longgroup/awesome-mllm-benchmarks) *Lin Li, Guikun Chen, Hanrong Shi, Jun Xiao, Long Chen.* Preprint'24
 19. [**LLM With Tools: A Survey.**](https://arxiv.org/abs/2409.18807) *Zhuocheng Shen.* Preprint'24
 
+## Repo
+1. https://github.com/camel-ai/owl
+1. https://github.com/mannaandpoem/OpenManus
+1. https://github.com/HKUDS/AutoAgent
+1. https://github.com/Darwin-lfl/langmanus
+1. [https://github.com/browser-use](https://github.com/browser-use/browser-use)
 
 ## Contributing
 This is an active repository and your contributions are always welcome!
